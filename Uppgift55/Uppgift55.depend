@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523216811 source:c:\users\sandr\documents\skola\c programing\uppgift55\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

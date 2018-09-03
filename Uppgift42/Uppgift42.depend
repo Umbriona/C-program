@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522847228 source:c:\users\sandr\documents\skola\c programing\uppgift42\main.c
+	"Manipulate.h"
+	<stdio.h>
+
+1522846586 c:\users\sandr\documents\skola\c programing\uppgift42\manipulate.h
+
+1522847273 source:c:\users\sandr\documents\skola\c programing\uppgift42\manipulate.c
+

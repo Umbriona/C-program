@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522871676 source:c:\users\sandr\documents\skola\c programing\uppgift52\reader.c
+	<stdio.h>
+
+1522871559 source:c:\users\sandr\documents\skola\c programing\uppgift52\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Reader.h"
+
+1522871590 c:\users\sandr\documents\skola\c programing\uppgift52\reader.h
+
